@@ -1,0 +1,16 @@
+{
+  "name": "minor",
+  "version": "1.0.0",
+  "description": "A Scalable Social Media Bot",
+  "main": "bot.js",
+  "scripts": {
+  	"start" : "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaunak Chadha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "twit": "^2.2.9"
+  }
+}
